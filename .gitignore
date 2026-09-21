@@ -1,0 +1,5 @@
+# Each student's own profile, which the tutor reads but updates never touch.
+/STUDENT.md
+
+# A student's own agent permissions, as the README suggests for Claude Code.
+/.claude/settings.local.json
