@@ -7,10 +7,12 @@ got, and helps you understand instead of doing the exercises for you.
 
 > [!WARNING]
 >
-> The tutor is an AI: it can be wrong, even with these instructions, and nothing
-> it says is guaranteed to be correct. It is your responsibility to sort out
-> what is correct from what is not, especially before you type a command on your
-> server. When in doubt, the course and the teachers are the reference.
+> Despite the name, an "AI" agent does not think: it is a large language model
+> that produces plausible text. It is often right, but it can be confidently
+> wrong, even with these instructions, and nothing it says is guaranteed to be
+> correct. It is your responsibility to sort out what is correct from what is
+> not, especially before you type a command on your server. When in doubt, the
+> course and the teachers are the reference.
 
 - [Why use it](#why-use-it)
 - [How to study with it](#how-to-study-with-it)
@@ -49,14 +51,14 @@ Research agrees, with nuances:
   more, in less time, with such a tutor than in an active learning class
   ([Kestin et al., 2025][kestin]).
 
-What matters is not whether you use an AI, but whether it thinks **with you** or
-**for you**.
+What matters is not whether you use an AI, but whether you think **with it** or
+let it think **for you**.
 
-This tutor is made to think with you. It asks what you tried, gives you the
-smallest useful hint, and lets you type the commands yourself. You can also ask
-it to guide you through an exercise: it then asks you questions at the important
-steps. And if you just want it to work, it will give you the answer, and tell
-you what you are missing.
+This tutor is made to keep you doing the thinking. It asks what you tried, gives
+you the smallest useful hint, and lets you type the commands yourself. You can
+also ask it to guide you through an exercise: it then asks you questions at the
+important steps. And if you just want it to work, it will give you the answer,
+and tell you what you are missing.
 
 ## How to study with it
 
