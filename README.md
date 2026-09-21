@@ -13,6 +13,7 @@ got, and helps you understand instead of doing the exercises for you.
 > server. When in doubt, the course and the teachers are the reference.
 
 - [Why use it](#why-use-it)
+- [How to study with it](#how-to-study-with-it)
 - [Installation](#installation)
 - [Your profile](#your-profile)
 - [Updating](#updating)
@@ -56,6 +57,34 @@ smallest useful hint, and lets you type the commands yourself. You can also ask
 it to guide you through an exercise: it then asks you questions at the important
 steps. And if you just want it to work, it will give you the answer, and tell
 you what you are missing.
+
+## How to study with it
+
+1. Do the exercise yourself first, without the AI. Struggling a little before
+   getting help makes you learn more ([Sinha and Kapur, 2021][sinha]).
+2. If you are stuck for 15 to 20 minutes without a new idea, ask the tutor for a
+   hint, not the answer:
+
+   ```text
+   I'm stuck at <step>. Here is what I tried: <...>. Give me a hint, not the answer.
+   ```
+
+3. Once it works, write down in a few lines what you did and why it matters,
+   without looking at the page or asking the AI. Explaining things to yourself
+   is one of the most effective ways to learn ([Bisra et al., 2018][bisra]).
+4. Paste it to the tutor and ask for a review:
+
+   ```text
+   Here is what I think I did in <exercise> and why. Tell me what is wrong or
+   missing, and ask me about it.
+   ```
+
+5. Dig into what it finds with the tutor, until you can explain it.
+6. Before the next session, explain the exercise again from memory: recalling it
+   later is what makes it stick ([Roediger and Karpicke, 2006][roediger]).
+
+If you do not know where to start an exercise, ask the tutor to go through it
+with you instead.
 
 ## Installation
 
@@ -165,8 +194,11 @@ With Claude Code, you can allow the course sites once and for all in
 [MIT](LICENSE.txt)
 
 [bastani]: https://doi.org/10.1073/pnas.2422633122
+[bisra]: https://doi.org/10.1007/s10648-018-9434-x
 [kestin]: https://doi.org/10.1038/s41598-025-97652-6
 [lehmann]: https://arxiv.org/abs/2409.09047
 [prather]: https://doi.org/10.1145/3632620.3671116
+[roediger]: https://doi.org/10.1111/j.1467-9280.2006.01693.x
 [shen]: https://arxiv.org/abs/2601.20245
 [shen-summary]: https://www.anthropic.com/research/AI-assistance-coding-skills
+[sinha]: https://doi.org/10.3102/00346543211019105
