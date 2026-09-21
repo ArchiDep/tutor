@@ -27,14 +27,33 @@ that is what the exam checks, without AI. Using an agent that does everything is
 like going to the gym with a forklift: the weights are lifted, but you gained
 nothing.
 
-Research confirms this: students who use an AI without restrictions do better on
-the exercises, then worse on the exam than students who did not use one. Reading
-a correct explanation gives you the feeling that you understand, even when you
-do not.
+Research agrees, with nuances:
 
-This tutor is made to avoid that. It asks what you tried, gives you the smallest
-useful hint, and lets you type the commands yourself. You can also ask it to
-guide you through an exercise: it then asks you questions at the important
+- In a randomized trial with nearly 1,000 high school students, those who
+  practised mathematics with ChatGPT did better during practice, then 17% worse
+  on the exam, without AI, than those who practised without it. A version that
+  gave hints instead of answers largely avoided that harm ([Bastani et al.,
+  2025][bastani]).
+- Developers who learned a new Python library with an AI assistant scored 50% on
+  a quiz afterwards, against 67% for those who coded by hand, for barely any
+  time saved. Those who only asked conceptual questions and fixed their own
+  errors did well ([Shen and Tamkin, 2026][shen], [summary][shen-summary]).
+- In programming courses, students who asked ChatGPT for explanations learned
+  more, and those who asked it for solutions learned less. Both believed they
+  had learned more than they had ([Lehmann et al., 2024][lehmann]).
+- Novice programmers who were already struggling were the most likely to accept
+  AI output they did not understand, while stronger ones used it to go further
+  ([Prather et al., 2024][prather]).
+- An AI tutor designed to teach does help: physics students at Harvard learned
+  more, in less time, with such a tutor than in an active learning class
+  ([Kestin et al., 2025][kestin]).
+
+What matters is not whether you use an AI, but whether it thinks **with you** or
+**for you**.
+
+This tutor is made to think with you. It asks what you tried, gives you the
+smallest useful hint, and lets you type the commands yourself. You can also ask
+it to guide you through an exercise: it then asks you questions at the important
 steps. And if you just want it to work, it will give you the answer, and tell
 you what you are missing.
 
@@ -144,3 +163,10 @@ With Claude Code, you can allow the course sites once and for all in
 ## License
 
 [MIT](LICENSE.txt)
+
+[bastani]: https://doi.org/10.1073/pnas.2422633122
+[kestin]: https://doi.org/10.1038/s41598-025-97652-6
+[lehmann]: https://arxiv.org/abs/2409.09047
+[prather]: https://doi.org/10.1145/3632620.3671116
+[shen]: https://arxiv.org/abs/2601.20245
+[shen-summary]: https://www.anthropic.com/research/AI-assistance-coding-skills
