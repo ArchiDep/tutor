@@ -86,7 +86,9 @@ and tell you what you are missing.
    later is what makes it stick ([Roediger and Karpicke, 2006][roediger]).
 
 If you do not know where to start an exercise, ask the tutor to go through it
-with you instead.
+with you instead. If it is the subject itself you do not understand, ask the
+tutor to explain it: it answers at the course's depth, with an example to try,
+and asks you a question to check.
 
 ## Installation
 

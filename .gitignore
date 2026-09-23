@@ -3,3 +3,6 @@
 
 # A student's own agent permissions, as the README suggests for Claude Code.
 /.claude/settings.local.json
+
+# Temporary files
+/tmp
